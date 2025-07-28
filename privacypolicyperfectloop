@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <title>Perfect Loop Gizlilik Politikası</title>
+</head>
+<body style="max-width:700px;margin:auto;font-family:sans-serif;padding:2em;">
+  <h1>Gizlilik Politikası – Perfect Loop</h1>
+  <p><strong>Son güncelleme:</strong> 28 Temmuz 2025<br>
+     <strong>Geliştirici:</strong> RubonTech<br>
+     <strong>İletişim:</strong> info.rubontech@gmail.com</p>
+
+  <h2>1. Giriş</h2>
+  <p>Perfect Loop, RubonTech tarafından geliştirilen bir mobil oyundur. Oyunculardan <strong>herhangi bir kişisel veri</strong> toplamaz.</p>
+
+  <h2>2. Toplanan Veriler</h2>
+  <p>Oyun herhangi bir kullanıcı verisi toplamaz veya işlemez. Uygulama içerisinde sadece <strong>Google AdMob</strong> hizmetiyle reklamlar gösterilir.</p>
+  <p>AdMob, cihaz bilgisi, ülke bazlı konum, reklam tıklama geçmişi gibi bazı anonim verileri toplayabilir. Bu veriler <strong>Google tarafından</strong> işlenmektedir.</p>
+
+  <h2>3. Üçüncü Taraf Hizmet</h2>
+  <p>Google AdMob hakkında daha fazla bilgi:<br>
+  <a href="https://policies.google.com/privacy" target="_blank">Google Gizlilik Politikası</a></p>
+
+  <h2>4. Çocukların Gizliliği</h2>
+  <p>Perfect Loop, 13 yaş altı kullanıcıları hedeflemez.</p>
+
+  <h2>5. Güvenlik</h2>
+  <p>Oyun herhangi bir veri saklamaz, işlemez veya paylaşmaz.</p>
+
+  <h2>6. Değişiklikler</h2>
+  <p>Gizlilik politikası bu sayfada güncellenebilir. Lütfen düzenli olarak kontrol edin.</p>
+
+  <h2>7. İletişim</h2>
+  <p>info.rubontech@gmail.com adresinden bizimle iletişime geçebilirsiniz.</p>
+</body>
+</html>
